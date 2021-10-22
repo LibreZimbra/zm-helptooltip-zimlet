@@ -1,6 +1,6 @@
 <project name="zm-helptooltip-zimlet" default="deploy">
 
-    <import file="../zm-zcs/ant-global.xml" />
+	<import file="ant-global.xml" />
 
 	<property name="zimlet.file" value="com_zimbra_tooltip" />
 	<property name="zimlet.js.dir" location="js" />
